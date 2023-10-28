@@ -1,0 +1,14 @@
+#hMenu > a{
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 20px;
+    border: 1px solid #fff;
+    border-radius: 8px;
+    width: 97px;
+    margin-right: -5px;
+    text-align: center;
+}
+#hMenu > a:hover{
+    background-color: gray;
+    color: #fff;
+}
